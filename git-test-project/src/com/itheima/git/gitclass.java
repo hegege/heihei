@@ -1,0 +1,11 @@
+package com.itheima.git;
+
+public class gitclass {
+    public static void main(String[] args) {
+        System.out.println("hello xiaosan");
+        System.out.println("hello xiaosan");
+        System.out.println("hello xiaosan");
+        System.out.println("hello xiaosan");
+        System.out.println("hello xiaosan");
+    }
+}
