@@ -8,4 +8,8 @@ public class gitclass {
         System.out.println("hello xiaosan");
         System.out.println("hello xiaosan");
     }
+    public void test(){
+        int a=10;
+        a++;
+    }
 }
