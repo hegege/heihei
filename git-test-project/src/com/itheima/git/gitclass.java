@@ -11,5 +11,6 @@ public class gitclass {
     public void test(){
         int a=10;
         a++;
+        System.out.println(a);
     }
 }
