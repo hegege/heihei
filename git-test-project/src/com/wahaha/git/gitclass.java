@@ -1,4 +1,4 @@
-package com.itheima.git;
+package com.wahaha.git;
 
 public class gitclass {
     public static void main(String[] args) {
